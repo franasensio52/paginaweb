@@ -1,0 +1,15 @@
+body{
+  background-image: url(../img/esports.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif;
+  }
+.color1{ color: #858585;}
+.color2{ color: #858585;}
+.color3{ color: #858585;}
+.color4{ color: #858585;}
+.color5{ color: #858585;}
+.borde{
+  height: 50px;
+  text-align: center;
+  }
